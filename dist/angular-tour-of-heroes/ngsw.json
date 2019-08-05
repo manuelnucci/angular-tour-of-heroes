@@ -1,22 +1,22 @@
 {
   "configVersion": 1,
-  "timestamp": 1564966675459,
-  "index": "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/index.html",
+  "timestamp": 1564966871084,
+  "index": "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/favicon.ico",
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/index.html",
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/main-es2015.f749adc43b2ffd089e69.js",
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/main-es5.f89abac81e0f5cfd4988.js",
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/polyfills-es2015.398a57f10074f2a9eb6e.js",
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/polyfills-es5.c058e2f4682c7c81546a.js",
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/runtime-es2015.10a1f01eef199006286d.js",
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/runtime-es5.9ad22a88fcc70a015907.js",
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/styles.4a5d1d3b69577dd9de05.css"
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/favicon.ico",
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/index.html",
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/main-es2015.f749adc43b2ffd089e69.js",
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/main-es5.f89abac81e0f5cfd4988.js",
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/polyfills-es2015.398a57f10074f2a9eb6e.js",
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/polyfills-es5.c058e2f4682c7c81546a.js",
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/runtime-es2015.10a1f01eef199006286d.js",
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/runtime-es5.9ad22a88fcc70a015907.js",
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/styles.4a5d1d3b69577dd9de05.css"
       ],
       "patterns": []
     },
@@ -25,37 +25,37 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-128x128.png",
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-144x144.png",
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-152x152.png",
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-192x192.png",
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-384x384.png",
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-512x512.png",
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-72x72.png",
-        "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-96x96.png"
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-128x128.png",
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-144x144.png",
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-152x152.png",
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-192x192.png",
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-384x384.png",
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-512x512.png",
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-72x72.png",
+        "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/index.html": "613e24297fb2a5c6558b4dc7dfb29fb59620b9ee",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/main-es2015.f749adc43b2ffd089e69.js": "799c372a427503d80331c715b5f85f7d84346f1c",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/main-es5.f89abac81e0f5cfd4988.js": "9ffa169494c3ccadf061e2538ceea96673a11455",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/polyfills-es2015.398a57f10074f2a9eb6e.js": "a514da8731833287c9583044e9d512d74c45312a",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/polyfills-es5.c058e2f4682c7c81546a.js": "7e1b38fcb73a9607657630e25f278302170f96dc",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/runtime-es2015.10a1f01eef199006286d.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/runtime-es5.9ad22a88fcc70a015907.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "“https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/”/styles.4a5d1d3b69577dd9de05.css": "4f03e51edd957f61d03cc06c68efc8ba30a781f5"
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/index.html": "6865596b9c2e298e7f93790bbbe33adb4913a4dc",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/main-es2015.f749adc43b2ffd089e69.js": "799c372a427503d80331c715b5f85f7d84346f1c",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/main-es5.f89abac81e0f5cfd4988.js": "9ffa169494c3ccadf061e2538ceea96673a11455",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/polyfills-es2015.398a57f10074f2a9eb6e.js": "a514da8731833287c9583044e9d512d74c45312a",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/polyfills-es5.c058e2f4682c7c81546a.js": "7e1b38fcb73a9607657630e25f278302170f96dc",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/runtime-es2015.10a1f01eef199006286d.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/runtime-es5.9ad22a88fcc70a015907.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://manuelnucci.github.io/angular-tour-of-heroes/dist/angular-tour-of-heroes/styles.4a5d1d3b69577dd9de05.css": "4f03e51edd957f61d03cc06c68efc8ba30a781f5"
   },
   "navigationUrls": [
     {
